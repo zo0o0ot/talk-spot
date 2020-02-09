@@ -33,7 +33,7 @@ After this talk, the audience will have their interest piqued and learn a little
 ## Mind Map
 - I was really worried about this one, as I had never spoken at a major conference before.
 - [Mind Map in Coggle](https://coggle.it/diagram/WUF1d8EQawABBaNu/t/impostor-syndrome)
-- [PDF of Mind Map](./Coggles/Impostor_Syndrome_Coggle.pdf)
+- [PDF of Mind Map](.././Coggles/Impostor_Syndrome_Coggle.pdf)
 
 
 ## Submitted to
