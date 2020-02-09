@@ -1,7 +1,7 @@
 # My Past and Future Talk Ideas
 
 ## Accepted
-* [Impostor Syndrome: I Have No Idea What I'm Doing](./TechSkills/ImpostorSyndrome-NoIdea.md)
+* [Impostor Syndrome: I Have No Idea What I'm Doing](./SoftSkills/ImpostorSyndrome-NoIdea.md)
 * 
 
 ## Submitted
