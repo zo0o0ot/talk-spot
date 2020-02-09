@@ -1,4 +1,4 @@
-# Writing Crochet Patterns is like Writing Code
+# Impostor Syndrome: I Have No Idea What I'm Doing
 
 ## Format
 Google Slides
