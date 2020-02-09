@@ -1,10 +1,14 @@
 # My Past and Future Talk Ideas
 
 ## Accepted
+* [Impostor Syndrome: I Have No Idea What I'm Doing](./TechSkills/ImpostorSyndrome-NoIdea.md)
+* 
 
 ## Submitted
+* 
 
 ## Work in Progress
+* 
 
 ## Ideas
 
