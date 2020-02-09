@@ -1,7 +1,7 @@
 # Impostor Syndrome: I Have No Idea What I'm Doing
 
 ## Format
-Google Slides
+Full Talk - Slides Made in Google Slides
 
 ## Abstract
 Hear about Impostor Syndrome from a software developer with a Psychology degree.
