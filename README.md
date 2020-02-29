@@ -20,7 +20,7 @@ I have a [speaker website](https://rosslarson.com/) which is a little more refin
 * Making cool charts with Tableau Public
 
 ## Open Spaces/Barcamp subjects
-* Retro Game Emulation (probably just an open spaces talk)
+* Retro Game Emulation
 * Obscure Fantasy Sports
 * Microsoft Certification War Stories
 
