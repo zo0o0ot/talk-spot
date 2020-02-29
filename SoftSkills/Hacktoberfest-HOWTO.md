@@ -1,28 +1,33 @@
-# Hacktoberfest: How to get other people to do your work
+# Hacktoberfest: Tidying up your GitHub repos for guests!
 
 ## Format
 Regular Session
 
 ## Abstract
-GitHub can be wonderful, especially during Hacktoberfest. Get ready to hit the ground running!
+GitHub can be wonderful, especially during Hacktoberfest. Prepare your repos for the fun!
 
 ## Description
-Best practices for creating issues that encourage people to give useful PRs in response. Because Hacktoberfest is a unique time of year that brings new folks to open source repositories, special care should be given to minimize confusion and frustration in issue creation.
+Hacktoberfest is a unique time of year that brings new folks to open source repositories on GitHub in October, lured in by the promises of comfy t-shirts.
+
+However, special care should be given to minimize confusion and frustration in issue creation in order to encourage folks to help you out instead of someone else.
+
+Behold some best practices for creating issues, so that people give useful PRs in response.
 
 This talk will contain tips for two sets of folks: 
 - Repo owners that create issues
-- Hacktoberfest participants that want to use the allure of a comfy free t-shirt to try out contributing to open source.
+- Potential contributors to open source projects, whether they be potential first-timers or veterans.
 
-
+You will leave with strategies to maximize your Hacktoberfests, and your open source repositories in general!
 
 ## Audience
-Who is the audience?
-Developers, or anyone else that wants to collaborate on GitHub, especially during Hacktoberfest in October of each year.
-Knowledge of GitHub is helpful here.
+*Who is the audience?*
+This talk will contain tips for two sets of folks: 
+- Repo owners that create issues
+- Potential contributors to open source projects, whether they be potential first-timers or veterans.
 
 ## Outcomes/Conclusions
-What will the audience get out of this talk? What do I want them to come away with?
-After listening to this talk, you will gain insights about yourself and your co-workers, and you will learn how to be a better person, employee, and advocate for others.
+*What will the audience get out of this talk? What do I want them to come away with?*
+You will leave with strategies to maximize your Hacktoberfests, and your open source repositories in general!
 
 ## Outline
 This presentation covers several topics:
@@ -31,7 +36,7 @@ This presentation covers several topics:
 - Describing a good issue, and why it's more likely to be completed
 
 ## Mind Map
-- TBD, but there is a repo that I created last hacktoberfest about this: https://github.com/zo0o0ot/hacktoberfest-issue-howto
+- TBD, but there is a repo that I created last hacktoberfest discussing this [here](https://github.com/zo0o0ot/hacktoberfest-issue-howto)
 
 
 ## Submitted to
