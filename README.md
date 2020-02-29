@@ -7,7 +7,7 @@ I have a [speaker website](https://rosslarson.com/) which is a little more refin
 * 
 
 ## Submitted
-* 
+* [Your Digital Legacy: Getting your digital life in order](./SoftSkills/DigitalLegacy.md)
 
 ## Work in Progress
 * 
