@@ -38,6 +38,7 @@ This presentation covers several topics:
 - [Wirecutter -preparing digital accounts](https://thewirecutter.com/blog/get-your-digital-accounts-ready-in-case-of-death/)
 - [Preparing your digital legacy](https://lifehacker.com/you-need-to-deal-with-your-digital-legacy-right-now-1820407514)
 - [A digital will for passwords?](https://blog.lastpass.com/2016/04/preparing-a-digital-will-for-your-passwords.html/)
+- [The Verge- How to arrange for your digital legacy](https://www.theverge.com/22812264/digital-legacy-death-estate-google-apple-how-to)
 
 ## Submitted to
 - That Conference: 2020
