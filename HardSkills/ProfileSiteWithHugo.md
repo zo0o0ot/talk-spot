@@ -41,6 +41,7 @@ Determine if Dark is useful for you to use as a programming language.
 - TBD
 - [Sample steps to create your own profile page](https://dev.to/zaracooper/create-your-developer-portfolio-using-hugo-and-github-pages-35en)
 - [Sample portfolio themes](https://themes.gohugo.io/tags/portfolio/)
+- [Make every photo a potential profile photo](https://getpocket.com/explore/item/make-every-photo-a-potential-profile-pic-by-learning-how-to-pose)
 
 
 ## Submitted to
