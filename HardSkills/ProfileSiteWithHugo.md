@@ -25,8 +25,10 @@ This is for programmer folks that want to make a nice, mostly automated profile 
 
 ## Outline
 - Greetings!
-- Setting everything up: Laptop, Hugo, GitHub (and an editor)
+- A brief overview of portfolio pages.
+- Getting a professional headshot
 - An introduction to Hugo and Static Websites
+- Setting everything up: Laptop, Hugo, GitHub, and Gitpod
 - General Organization of a Hugo site
 - Themes
 - Adding your first content
@@ -34,8 +36,9 @@ This is for programmer folks that want to make a nice, mostly automated profile 
 - Creating GitHub repositories for your site
 - Deploying your site
 - Making changes and updates
-- Adding a domain
-- Working on your site/Questions and Answers
+- Adding a domain (optional)
+- Working on your site
+- Questions and Answers
 
 ## Mind Map/Links
 - TBD
@@ -44,8 +47,16 @@ This is for programmer folks that want to make a nice, mostly automated profile 
 - [Make every photo a potential profile photo](https://getpocket.com/explore/item/make-every-photo-a-potential-profile-pic-by-learning-how-to-pose)
 
 
+## Why Me?
+I've created a variety of websites using Hugo, including three professional profile pages, and I found them to be surprisingly accessible.
+
+I'm also going to use my expertise with Gitpod and GitHub actions to help folks create a free browser-based online IDE with a preview of the portfolio site, as well as integrated Github Actions that allow you to automatically deploy your site changes to GitHub Pages.
+
+I think that this sort of activity is a great activity for a conference, especially a pre-conference.  It gives people a positive learning experience and something to possibly share with other folks as they network during the conference.
+
 ## Submitted to
 - That Conference: 2020
+- That Conference: 2022
 
 ## Given at
 
