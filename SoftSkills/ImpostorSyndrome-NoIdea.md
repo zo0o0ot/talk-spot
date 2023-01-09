@@ -36,6 +36,8 @@ After listening to this talk, you will gain insights about yourself and your co-
 
 ## Submitted to
 - That Conference: 2017
+- DevFest WI: 2022
 
 ## Given at
 - [That Conference: 2017](https://rosslarson.com/talks/impostor-syndrome/)
+- [DevFest WI: 2022](https://rosslarson.com/talks/impostor-syndrome-devfestwi/)
