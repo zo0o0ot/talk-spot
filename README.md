@@ -16,19 +16,20 @@ I have a [speaker website](https://rosslarson.com/) which is a little more refin
 * [Creating a professional portfolio site: From zero to deployed with Hugo and GitHub Pages.](./HardSkills/ProfileSiteWithHugo.md)
 * [Coming out of the Dark: An introduction to Darklang](./HardSkills/Darklang.md)
 
-# Online Presentation/Discussions
-* TBA
-
 ## Work in Progress
 * 
 
 ## Session Ideas
 * Making cool charts with Tableau Public
+* Blazor Webassembly and Azure Static Web Apps [like this tutorial](https://learn.microsoft.com/en-us/training/paths/azure-static-web-apps/)
 
-## Open Spaces/Barcamp subjects
+## Online/Open Spaces/Barcamp subjects
 * Retro Game Emulation
 * Obscure Fantasy Sports
 * Microsoft Certification War Stories
+* Preptember: Prepping for Hacktoberfest
+* [Hacktoberfest/Preptember](./SoftSkills/Hacktoberfest-HOWTO.md)
+
 
 
 

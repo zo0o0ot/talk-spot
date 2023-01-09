@@ -43,4 +43,4 @@ This presentation covers several topics:
 - That Conference: 2020
 
 ## Given at
-- That Conference 2020 Online!
+- [That Conference 2020 Online!](https://that.us/activities/LrRd3sA9DmVOtrN1hNx0)
