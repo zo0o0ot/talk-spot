@@ -1,6 +1,6 @@
 # My Past and Future Talk Ideas
 
-I have a [speaker website](https://rosslarson.com/) which is a little more refined.  This is a place for my works in progress and submitted talks that haven't had any takers.
+I have a [speaker website](https://rosslarson.com/) which is a little more refined.  This is mostly a place for my works in progress and submitted talks that haven't had any takers.
 
 
 
@@ -10,6 +10,7 @@ I have a [speaker website](https://rosslarson.com/) which is a little more refin
 * [How about a Go?](./SoftSkills/Golang.md)
 * [Hacktoberfest: Tidying up your GitHub repos for guests!](./SoftSkills/Hacktoberfest-HOWTO.md)
 * [Coding inside the web browser! Talking about GitHub Codespaces and Gitpod.](./HardSkills/WebBrowserCoding-Codespaces-Gitpod.md)
+* [Getting (.NET) Interactive!](./HardSkills/DotNetInteractiveNotebooks.md)
 
 ## Submitted
 * [Your Digital Legacy: Getting your digital life in order](./SoftSkills/DigitalLegacy.md)
@@ -21,13 +22,12 @@ I have a [speaker website](https://rosslarson.com/) which is a little more refin
 
 ## Session Ideas
 * Making cool charts with Tableau Public
-* Blazor Webassembly and Azure Static Web Apps [like this tutorial](https://learn.microsoft.com/en-us/training/paths/azure-static-web-apps/)
+* Serverless websites, Blazor Webassembly and Azure Static Web Apps [like this tutorial](https://learn.microsoft.com/en-us/training/paths/azure-static-web-apps/)
 
 ## Online/Open Spaces/Barcamp subjects
 * Retro Game Emulation
 * Obscure Fantasy Sports
 * Microsoft Certification War Stories
-* Preptember: Prepping for Hacktoberfest
 * [Hacktoberfest/Preptember](./SoftSkills/Hacktoberfest-HOWTO.md)
 
 
