@@ -9,7 +9,7 @@ Don't have a portfolio site that shows who you are? Make one today with Hugo!
 ## Description
 Personal portfolio websites can give you an added presence on the Internet, giving you a place to show off work that you're proud of.  It's also an easy way to allow people to connect to you and the work that you do.
 
-Given the magic of Hugo's static site generation framework and GitHub pages, we can start from scratch and make your professional profile website in less than a day!  Let's do it together!
+Given the magic of Hugo's static site generation framework, as well as free tools such as Gitpod, GitHub Actions, and GitHub Pages, we can start from scratch and make your professional profile website in less than a day!  Let's do it together!
 
 ## Audience
 Who is the audience?
