@@ -18,9 +18,6 @@ I have a [speaker website](https://rosslarson.com/) which is a little more refin
 * [Coming out of the Dark: An introduction to Darklang](./HardSkills/Darklang.md)
 * [Making the console.....beautiful? Spectre Console for .NET console apps.](./HardSkills/SpectreConsoleAndDotnet.md)
 
-## Work in Progress
-* 
-
 ## Session Ideas
 * Making cool charts with Tableau Public
 * Serverless websites, Blazor Webassembly and Azure Static Web Apps [like this tutorial](https://learn.microsoft.com/en-us/training/paths/azure-static-web-apps/)
