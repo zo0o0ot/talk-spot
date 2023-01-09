@@ -4,7 +4,7 @@
 Regular Session
 
 ## Short Abstract
-Is the Dark programming language a new way of thinking about code, or a gimmick?
+Coding in the browser. Is it a cool hack, or a realistic option?
 
 ## Description
 As cloud resources and source code management tools improve in quality and affordability over time, the days of needing a dedicated development machine may no longer be necessary for all development workflows.
