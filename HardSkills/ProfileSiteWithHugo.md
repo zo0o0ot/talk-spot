@@ -21,7 +21,7 @@ Developers, or people who would be interested in creating a professional profile
 
 ## Outcomes/Conclusions
 What will the audience get out of this talk? What do I want them to come away with?
-Determine if Dark is useful for you to use as a programming language.
+This is for programmer folks that want to make a nice, mostly automated profile page for personal or professional use.  The goal is for someone to come in with the idea and leave with a working site.
 
 ## Outline
 - Greetings!
