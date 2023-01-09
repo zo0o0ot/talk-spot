@@ -16,6 +16,7 @@ I have a [speaker website](https://rosslarson.com/) which is a little more refin
 * [Your Digital Legacy: Getting your digital life in order](./SoftSkills/DigitalLegacy.md)
 * [Creating a professional portfolio site: From zero to deployed with Hugo and GitHub Pages.](./HardSkills/ProfileSiteWithHugo.md)
 * [Coming out of the Dark: An introduction to Darklang](./HardSkills/Darklang.md)
+* [Making the console.....beautiful? Spectre Console for .NET console apps.](./HardSkills/SpectreConsoleAndDotnet.md)
 
 ## Work in Progress
 * 
