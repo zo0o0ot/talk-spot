@@ -1,7 +1,7 @@
 # Creating a professional portfolio site: From zero to deployed with Hugo and GitHub Pages.
 
 ## Format
-Half-day Workshop
+Full-day Workshop
 
 ## Short Abstract
 Don't have a portfolio site that shows who you are? Make one today with Hugo!
@@ -26,6 +26,7 @@ This is for programmer folks that want to make a nice, mostly automated profile 
 ## Outline
 - Greetings!
 - A brief overview of portfolio pages.
+- Picking what kind of portfolio that YOU want
 - Getting a professional headshot
 - An introduction to Hugo and Static Websites
 - Setting everything up: Laptop, Hugo, GitHub, and Gitpod
