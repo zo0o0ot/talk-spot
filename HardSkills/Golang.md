@@ -18,6 +18,9 @@ Anyone who is interested in Golang (probably developers).
 ## Outcomes/Conclusions
 Learning about Golang and some possible projects to do.
 
+## Mind Map / Links
+- Mind Map: [Coggle](https://coggle.it/diagram/WzWsqZHcFDolZoet/t/how-about-a-go-go-logo_black)
+
 ## Submitted to
 - That Conference: 2018
 

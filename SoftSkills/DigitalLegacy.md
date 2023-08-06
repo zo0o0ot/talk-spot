@@ -32,7 +32,7 @@ This presentation covers several topics:
 - Passwords
 
 ## Mind Map/Links
-- TBD
+- Mind Map: [Coggle](https://coggle.it/diagram/ZIvQGnXRJ1sQmE0B/t/your-digital-legacy/1df5d96e56d6cda73273f90e8ee0349471e329ab9c2e6dffebc71d4b1a2e241f) 
 - [Wired: Giving open source projects life after death](https://www.wired.com/story/giving-open-source-projects-life-after-a-developers-death/)
 - [Preparing your digital life for after death](https://www.pcmag.com/how-to/how-to-prepare-your-digital-life-for-your-death)
 - [Wirecutter -preparing digital accounts](https://thewirecutter.com/blog/get-your-digital-accounts-ready-in-case-of-death/)

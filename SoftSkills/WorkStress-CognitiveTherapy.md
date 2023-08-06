@@ -15,6 +15,9 @@ Anyone who experiences stress.
 ## Outcomes/Conclusions
 Concrete exercises to use to reduce stress.
 
+## Mind Map
+- [Coggle](https://coggle.it/diagram/XLoDKk4GE3eUvt4A/t/stress-at-work-changing-narrative-with-cognitive-therapy)
+
 ## Submitted to
 - That Conference: 2019
 - Central Wisconsin IT Conference
