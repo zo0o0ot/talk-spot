@@ -11,9 +11,9 @@ I have a [speaker website](https://rosslarson.com/) which is a little more refin
 * [Hacktoberfest: Tidying up your GitHub repos for guests!](./SoftSkills/Hacktoberfest-HOWTO.md)
 * [Coding inside the web browser! Talking about GitHub Codespaces and Gitpod.](./HardSkills/WebBrowserCoding-Codespaces-Gitpod.md)
 * [Getting (.NET) Interactive!](./HardSkills/DotNetInteractiveNotebooks.md)
+* [Your Digital Legacy: Getting your digital life in order](./SoftSkills/DigitalLegacy.md)
 
 ## Submitted
-* [Your Digital Legacy: Getting your digital life in order](./SoftSkills/DigitalLegacy.md)
 * [Creating a professional portfolio site: From zero to deployed with Hugo and GitHub Pages.](./HardSkills/ProfileSiteWithHugo.md)
 * [Coming out of the Dark: An introduction to Darklang](./HardSkills/Darklang.md)
 * [Making the console.....beautiful? Spectre Console for .NET console apps.](./HardSkills/SpectreConsoleAndDotnet.md)
@@ -23,7 +23,7 @@ I have a [speaker website](https://rosslarson.com/) which is a little more refin
 * Making cool charts with Tableau Public
 * Serverless websites, Blazor Webassembly and Azure Static Web Apps [like this tutorial](https://learn.microsoft.com/en-us/training/paths/azure-static-web-apps/)
 * Cool ways to look at data quickly. (examples: Tableau Public, SandDance)
-* Intro to [Darklang](https://darklang.com/)
+
 
 ## Online/Open Spaces/Barcamp subjects
 * Retro Game Emulation

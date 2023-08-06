@@ -45,5 +45,7 @@ This presentation covers several topics:
 - That Conference: 2021
 
 ## Accepted to
+- That Conference: 2023
 
 ## Given at
+- [That Conference: 2023](https://rosslarson.com/talks/your-digital-legacy/)
