@@ -23,6 +23,7 @@ I have a [speaker website](https://rosslarson.com/) which is a little more refin
 * Making cool charts with Tableau Public
 * Serverless websites, Blazor Webassembly and Azure Static Web Apps [like this tutorial](https://learn.microsoft.com/en-us/training/paths/azure-static-web-apps/)
 * Cool ways to look at data quickly. (examples: Tableau Public, SandDance)
+* Diagrams as code, looking at [Structurizr](https://www.structurizr.com/) and [Mermaid](https://mermaid.js.org/)
 
 
 ## Online/Open Spaces/Barcamp subjects
