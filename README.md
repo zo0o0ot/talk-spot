@@ -23,7 +23,7 @@ I have a [speaker website](https://rosslarson.com/) which is a little more refin
 * Making cool charts with Tableau Public
 * Serverless websites, Blazor Webassembly and Azure Static Web Apps [like this tutorial](https://learn.microsoft.com/en-us/training/paths/azure-static-web-apps/)
 * Cool ways to look at data quickly. (examples: Tableau Public, SandDance)
-* Diagrams as code, looking at [Structurizr](https://www.structurizr.com/) and [Mermaid](https://mermaid.js.org/) and maybe [PlantUML](https://plantuml.com/) like this [article](https://dev.to/simonbrown/modelling-software-architecture-with-plantuml-56fc)
+* Diagrams as code, looking at [Structurizr](https://www.structurizr.com/) and [Mermaid](https://mermaid.js.org/) and maybe [PlantUML](https://plantuml.com/) like this [article](https://dev.to/simonbrown/modelling-software-architecture-with-plantuml-56fc) - Also see [this video](https://youtu.be/Za1-v4Zkq5E?si=A6r7NGN0dEisZA2u)
 * Mindfulness and intentionality in your work
 
 
