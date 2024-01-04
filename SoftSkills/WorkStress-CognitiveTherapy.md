@@ -27,4 +27,4 @@ Concrete exercises to use to reduce stress.
 ## Given at
 - [That Conference: 2019](https://rosslarson.com/talks/stress-at-work-cbt/)
 - [Central Wisconsin IT Conference](https://rosslarson.com/talks/stress-at-work-cbt-cwitc/)
-- [DevFest WI: 2023]
+- [DevFest WI: 2023](https://www.devfestwi.com/2023/schedule)
