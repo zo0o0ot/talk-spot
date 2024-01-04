@@ -24,7 +24,7 @@ This presentation covers several topics:
 
 
 ## Mind Map/Links
-- 
+- [RAIN Method - Recognize, allow, investigate, nurture](https://www.tarabrach.com/rain/)
 
 ## Submitted to
 - 
