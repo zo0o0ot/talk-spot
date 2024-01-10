@@ -26,7 +26,7 @@ What will the audience get out of this talk? What do I want them to come away wi
 
 ## Mind Map/Links
 - Mind Map: TBD 
-- [Moving Forward: Cultivating resilience]](https://www.costcoconnection.com/january_2024/page4.html) - full of links to resilience resources
+- [Moving Forward: Cultivating resilience](https://www.costcoconnection.com/january_2024/page4.html) - full of links to resilience resources
 
 ## Submitted to
 - 
