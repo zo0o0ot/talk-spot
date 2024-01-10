@@ -1,10 +1,10 @@
 # Creating a professional portfolio site: From zero to deployed with Hugo and GitHub Pages.
 
 ## Format
-Full-day Workshop
+60 minute session, followed by either an open space or unstructured work time.
 
 ## Short Abstract
-Don't have a portfolio site that shows who you are? Make one today with Hugo!
+Do you have a portfolio site that shows who you are and what you can do? If not, let's make one today with Hugo, GitHub Pages, and GitHub Actions!
 
 ## Description
 Personal portfolio websites can give you an added presence on the Internet, giving you a place to show off work that you're proud of.  It's also an easy way to allow people to connect to you and the work that you do.
@@ -46,7 +46,8 @@ This is for programmer folks that want to make a nice, mostly automated profile 
 - [Sample steps to create your own profile page](https://dev.to/zaracooper/create-your-developer-portfolio-using-hugo-and-github-pages-35en)
 - [Sample portfolio themes](https://themes.gohugo.io/tags/portfolio/)
 - [Make every photo a potential profile photo](https://getpocket.com/explore/item/make-every-photo-a-potential-profile-pic-by-learning-how-to-pose)
-
+- [Gitpod](gitpod.io)
+- [GitHub Pages](https://pages.github.com/)
 
 ## Why Me?
 I've created a variety of websites using Hugo, including three professional profile pages, and I found them to be surprisingly accessible.
@@ -56,9 +57,10 @@ I'm also going to use my expertise with Gitpod and GitHub actions to help folks 
 I think that this sort of activity is a great activity for a conference, especially a pre-conference.  It gives people a positive learning experience and something to possibly share with other folks as they network during the conference.
 
 ## Submitted to
-- That Conference: 2020
-- That Conference: 2022
-- That Conference: 2023
+- That Conference: 2020 (half-day session)
+- That Conference: 2022 (half-day session)
+- That Conference: 2023 (half-day session)
+- That Conference: 2024 (One hour session plus open space)
 
 ## Given at
 
