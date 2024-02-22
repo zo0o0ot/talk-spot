@@ -40,6 +40,7 @@ What will the audience get out of this talk? What do I want them to come away wi
 ## Mind Map/Links
 - Mind Map: TBD 
 - [Moving Forward: Cultivating resilience](https://www.costcoconnection.com/january_2024/page4.html) - full of links to resilience resources
+- [Journaling, the VOMIT system](https://youtu.be/U8RQsJ0Q3Mo?si=Dk3FU-me9ODvtZo5) - shows a variety of journaling methods and mental tasks to help mentally move forward.
 
 ## Submitted to
 - THAT Conference WI 2024
