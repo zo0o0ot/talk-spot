@@ -47,6 +47,7 @@ This presentation covers several topics:
 - [PLAYNE - a meditation app on Steam](https://www.playne.co/)
 - [Inward, a free meditation app](https://store.steampowered.com/app/1545430/Inward/)
 - [Princeton UMatter Wellness Wheel and assessment tool](https://umatter.princeton.edu/action/caring-yourself/wellness-wheel-assessment)
+- [A framework for understanding (and meeting) your wants and needs - Forrest Hanson](https://youtu.be/VzaTmW3tixg?si=haBa83mNB3q8YuzB)
 
 ## Submitted to
 - THAT Conference WI 2024
