@@ -48,6 +48,7 @@ This presentation covers several topics:
 - [Inward, a free meditation app](https://store.steampowered.com/app/1545430/Inward/)
 - [Princeton UMatter Wellness Wheel and assessment tool](https://umatter.princeton.edu/action/caring-yourself/wellness-wheel-assessment)
 - [A framework for understanding (and meeting) your wants and needs - Forrest Hanson](https://youtu.be/VzaTmW3tixg?si=haBa83mNB3q8YuzB)
+- [Toxic productivity culture](https://youtu.be/PDcLSt7bUvA?si=ThgILViuDPSVTg91)
 
 ## Submitted to
 - THAT Conference WI 2024
