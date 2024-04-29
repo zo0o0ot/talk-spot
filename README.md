@@ -20,6 +20,7 @@ I have a [speaker website](https://rosslarson.com/) which is a little more refin
 * [Mental Health and the Tech Community](./SoftSkills/MentalHealthInTech.md)
 * [Mindfulness and the wellness wheel](./SoftSkills/Mindfulness-WellnessWheel.md)
 * [Learning Resilience](./SoftSkills/LearningResilience.md)
+* [Finding Your Voice: Becoming a (tech) speaker](./SoftSkills/FindingYourVoice.md)
 
 ## Session Ideas
 * Making cool charts with Tableau Public
@@ -35,6 +36,8 @@ I have a [speaker website](https://rosslarson.com/) which is a little more refin
 * Microsoft Certification War Stories
 * [Hacktoberfest/Preptember](./SoftSkills/Hacktoberfest-HOWTO.md)
 * TEALS roundtable - volunteering to teach computer science
+* Photography
+* Streaming on Twitch
 
 
 
