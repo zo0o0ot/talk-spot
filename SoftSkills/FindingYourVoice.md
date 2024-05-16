@@ -19,4 +19,7 @@ Give people confidence, inspire them to share their perspectives, and get them i
 ## Submitted to
 - DevFest WI 2024
 
+## Accepted by
+- [DevFest WI 2024](https://www.devfestwi.com/2024/schedule)
+
 ## Given at

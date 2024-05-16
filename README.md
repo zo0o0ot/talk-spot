@@ -12,6 +12,7 @@ I have a [speaker website](https://rosslarson.com/) which is a little more refin
 * [Coding inside the web browser! Talking about GitHub Codespaces and Gitpod.](./HardSkills/WebBrowserCoding-Codespaces-Gitpod.md)
 * [Getting (.NET) Interactive!](./HardSkills/DotNetInteractiveNotebooks.md)
 * [Your Digital Legacy: Getting your digital life in order](./SoftSkills/DigitalLegacy.md)
+* [Finding Your Voice: Becoming a (tech) speaker](./SoftSkills/FindingYourVoice.md)
 
 ## Submitted
 * [Creating a professional portfolio site: From zero to deployed with Hugo and GitHub Pages.](./HardSkills/ProfileSiteWithHugo.md)
@@ -20,7 +21,6 @@ I have a [speaker website](https://rosslarson.com/) which is a little more refin
 * [Mental Health and the Tech Community](./SoftSkills/MentalHealthInTech.md)
 * [Mindfulness and the wellness wheel](./SoftSkills/Mindfulness-WellnessWheel.md)
 * [Learning Resilience](./SoftSkills/LearningResilience.md)
-* [Finding Your Voice: Becoming a (tech) speaker](./SoftSkills/FindingYourVoice.md)
 
 ## Session Ideas
 * Making cool charts with Tableau Public
