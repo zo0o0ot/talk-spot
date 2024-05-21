@@ -16,6 +16,16 @@ People in the tech community and/or people who would like to become more comfort
 ## Outcomes/Conclusions
 Give people confidence, inspire them to share their perspectives, and get them involved in our community.
 
+## Outline
+This presentation covers several topics:
+- Learning about yourself
+- Learning about speaking
+- Learning about submitting 
+
+## Mind Map/Links
+- [Mind Map in Coggle]()
+
+
 ## Submitted to
 - DevFest WI 2024
 
