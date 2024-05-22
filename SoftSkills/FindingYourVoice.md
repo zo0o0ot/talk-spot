@@ -30,6 +30,7 @@ This presentation covers several topics:
 - [Video - How to get your first gig at a tech conference](https://youtu.be/0-BkCkAiso8?si=4QoWftFF0y239-x6)
 - [Ali Abdaal - How I became a better speaker](https://youtu.be/jeSkdpQQtz4?si=QK4pD7JyVKMP_Q3f)
 - [Brooke Jamieson - How to become a tech conference speaker](https://youtu.be/u5ub-KP_2N4?si=41EMXNqZ8DevuJko)
+- [Virtual Coffee challenge - Finding your voice](https://virtualcoffee.io/monthlychallenges/apr-2024)
 
 ## Submitted to
 - DevFest WI 2024
