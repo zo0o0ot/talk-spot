@@ -31,6 +31,8 @@ This presentation covers several topics:
 - [Ali Abdaal - How I became a better speaker](https://youtu.be/jeSkdpQQtz4?si=QK4pD7JyVKMP_Q3f)
 - [Brooke Jamieson - How to become a tech conference speaker](https://youtu.be/u5ub-KP_2N4?si=41EMXNqZ8DevuJko)
 - [Virtual Coffee challenge - Finding your voice](https://virtualcoffee.io/monthlychallenges/apr-2024)
+- [Virtual Coffee Lightning Talk Guide](https://virtualcoffee.io/assets/pdfs/lightning-talk-guide.pdf)
+- VC Lightning talks from [2023](https://youtube.com/playlist?list=PLh9uT23TA65jtVEGgWo-DNVAcq7PnDV2r&si=L5r9djkxGLXGcjmC), [2022](https://youtube.com/playlist?list=PLh9uT23TA65gwNgoeeZ21XWlxLOwxs3Ls&si=FX3xBXJGdVryeFQn), and [2021](https://youtube.com/playlist?list=PLh9uT23TA65infGqUUaVibI0IssI0G6NY&si=chWy3mb2GB3YpiDU)
 
 ## Submitted to
 - DevFest WI 2024
