@@ -41,3 +41,4 @@ This presentation covers several topics:
 - [DevFest WI 2024](https://www.devfestwi.com/2024/schedule)
 
 ## Given at
+- [DevFest WI 2024](https://www.devfestwi.com/2024/schedule)
