@@ -52,6 +52,7 @@ This presentation covers several topics:
 
 ## Submitted to
 - THAT Conference WI 2024
+- DevFest WI 2025
 
 ## Accepted to
 - 
