@@ -55,7 +55,7 @@ This presentation covers several topics:
 - DevFest WI 2025
 
 ## Accepted to
-- 
+- DevFest WI 2025
 
 ## Given at
 - 
