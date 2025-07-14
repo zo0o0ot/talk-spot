@@ -53,6 +53,7 @@ This presentation covers several topics:
 - [Princeton UMatter Wellness Wheel and assessment tool](https://umatter.princeton.edu/action/caring-yourself/wellness-wheel-assessment)
 - [A framework for understanding (and meeting) your wants and needs - Forrest Hanson](https://youtu.be/VzaTmW3tixg?si=haBa83mNB3q8YuzB)
 - [Toxic productivity culture](https://youtu.be/PDcLSt7bUvA?si=ThgILViuDPSVTg91)
+- [You don't need a 10 year plan. You need to experiment. - Big Think](https://youtu.be/R_TnZJpCULI?si=nWxh7YqcYLUel2KV)
 
 ## Submitted to
 - THAT Conference WI 2024
