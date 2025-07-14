@@ -2,6 +2,10 @@
 
 ## Potential Titles
 - Mindfulness and the Wellness Wheel.  Let's get rolling!
+- Beyond Burnout: Using the Wellness Wheel for a Better Work-Life Balance
+- The Balanced Professional: Mindfulness and the Wellness Wheel
+- The Wellness Wheel: A Framework for Professional Well-being
+- Mindfulness at Work: A Practical Guide to the Wellness Wheel
 
 ## Format
 Regular Session
