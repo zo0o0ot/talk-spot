@@ -42,3 +42,4 @@ This presentation covers several topics:
 
 ## Given at
 - [DevFest WI 2024](https://www.devfestwi.com/2024/schedule)
+- [Madison Area Business Consultants, July 10, 2025](https://rosslarson.com/talks/mabc-finding-your-voice/)
