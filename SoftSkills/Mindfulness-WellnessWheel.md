@@ -24,6 +24,15 @@ This presentation covers several topics:
 
 You should attend because I will give you an opportunity to do a self-assessment and make a plan to improve your future wellness.
 
+
+Alternate description:
+The goal of this talk is to focus on finding balance at work using the Wellness Wheel. This presentation covers several topics:
+
+- An introduction to mindfulness and the RAIN method.
+- A description of the Wellness Wheel and an overview of the dimensions of wellness
+- A self-assessment to help give you a snapshot of your current status
+- A roadmap to an experimental mindset
+
 ## Audience
 Who is the audience? 
 - Anybody! No previous experience is necessary.
